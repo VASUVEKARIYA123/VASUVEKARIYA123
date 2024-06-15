@@ -5,13 +5,10 @@
 
 <img align='right' src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif?cid=ecf05e47z9x7dwocmvenuctj07lj7sfrhua3xqsoklr0cch4&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="24%">
 I am an enthusiastic problem-solver who studies computer engineering at Ddu. I am specialist in database management and web development. I have contributed to a variety of projects in my work experience. Always looking for new and creative ways to apply my knowledge and abilities, I am eager to keep learning and growing.
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasuvekariya123&show_icons=true&locale=en&layout=compact" alt="vasuvekariya" /></p>
 </div>
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasuvekariya&show_icons=true&locale=en&layout=compact" alt="vasuvekariya" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasuvekariya&show_icons=true&locale=en" alt="vasuvekariya" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasuvekariya&" alt="vasuvekariya" /></p>
--->
+
+
 
 <br/>
 
@@ -26,7 +23,15 @@ I am an enthusiastic problem-solver who studies computer engineering at Ddu. I a
 </p>
 
 
-[![GitHub @vasuvekariya](https://img.shields.io/github/followers/vasuvekariya?label=follow&style=social)](https://github.com/vasuvekariya/)
+[![GitHub @vasuvekariya](https://img.shields.io/github/followers/vasuvekariya123?label=follow&style=social)](https://github.com/vasuvekariya123/)
+
+## My stats
+<div>
+   
+  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasuvekariya123&show_icons=true&locale=en" alt="vasuvekariya" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasuvekariya123&" alt="vasuvekariya" /></p>
+</div>
 
 
 
