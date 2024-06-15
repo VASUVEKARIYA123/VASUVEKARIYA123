@@ -52,7 +52,7 @@ I have a passion for competitive programming in various coding platforms:
 
 ## Education
 
-- B.Tech. in Computer Engineering (Final Year) - Dharmsinh Desai University, Nadiad (CPI: 9.61/10.0)
+- B.Tech. in Computer Engineering (second year) - Dharmsinh Desai University, Nadiad (CPI: 9.26/10.0)
 - HSC (11-12 Science) - Tapovan Vidhyalay (87%)
 - SSC - Tapovan Vidhyalay (86%)
 
