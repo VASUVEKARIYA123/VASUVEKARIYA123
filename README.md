@@ -4,9 +4,14 @@
 ## Hi there! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="32"> I am Vasu Vekariya 
 
 <img align='right' src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif?cid=ecf05e47z9x7dwocmvenuctj07lj7sfrhua3xqsoklr0cch4&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="24%">
-I am an enthusiastic **problem-solver** who studies **computer engineering** at Ddu. I am specialist in **database management and web development**. I have contributed to a variety of projects in my work experience. Always looking for new and creative ways to apply my knowledge and abilities, I am eager to keep learning and growing.
+I am an enthusiastic problem-solver who studies computer engineering at Ddu. I am specialist in database management and web development. I have contributed to a variety of projects in my work experience. Always looking for new and creative ways to apply my knowledge and abilities, I am eager to keep learning and growing.
 
 </div>
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasuvekariya&show_icons=true&locale=en&layout=compact" alt="vasuvekariya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasuvekariya&show_icons=true&locale=en" alt="vasuvekariya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasuvekariya&" alt="vasuvekariya" /></p>
+-->
 
 <br/>
 
@@ -27,13 +32,13 @@ I am an enthusiastic **problem-solver** who studies **computer engineering** at 
 
 
 
-
+<!--
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Stats 
 ![vasuvekariya github stats](https://github-readme-stats.vercel.app/api?username=vasuvekariya&show_icons=true)  
 
 ![vasuvekariya streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vasuvekariya&)  
-
+-->
 
 
 
@@ -58,11 +63,11 @@ I have a passion for competitive programming in various coding platforms:
 ## Skills
 
 - Competitive Coding
-- Programming Languages: c++, Core Java, Python
+- Programming Languages: C++, Core Java, Python
 - Web & Software Development: Spring Boot, Spring MVC, Django
 - Tools: Google Colab, Git, GitHub, Postman
   <!-- - Techstack: MEAN Stack, MERN Stack -->
-- Database: MySQL
+- Database: MySQL, MangoDB
 
 
 
@@ -149,14 +154,39 @@ Here are my key competencies and skills:
 
 ### Testing
 
-- ![postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
+- ![postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
+<h3 align="left">Languages and Tools:</h3>
+<br>
+<p align="left"> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+</p>
 
 
 
 
 ## More About Me
-
+<br>
 
 - 🔭 I’m currently working on: Competitive programming
 - 🌱 I’m currently learning: Competitive programming
@@ -176,9 +206,13 @@ Here are my key competencies and skills:
 - 😄 Challenge, fun, joy lie in: AI
 - ⚡ Fun fact: AI is my passion!
 -->
-Let's dive into the exciting world of AI together!
+Let's dive into the exciting world of CP together!
 
 Stay curious and keep coding! 😄
+
+
+
+
 <!--
 <img src="https://github-profile-trophy.vercel.app/?username=vasuvekariya">
 -->
