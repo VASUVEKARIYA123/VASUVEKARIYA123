@@ -1,9 +1,7 @@
-I'm a computer engineering student at Ddu with a passion for solving complex problems. I specialize in web development and database management. My hands-on experience includes contributing to various projects. Eager to continue learning and applying my skills in innovative ways, Actively seeking opportunities to apply and expand my skills in real-world settings.
-
 
 <div>
 
-## Hi there! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="32"> I am Om Ashish Soni 
+## Hi there! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="32"> I am Vasu Vekariya 
 
 <img align='right' src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif?cid=ecf05e47z9x7dwocmvenuctj07lj7sfrhua3xqsoklr0cch4&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="24%">
 I am an enthusiastic **problem-solver** who studies **computer engineering** at Ddu. I am specialist in **database management and web development**. I have contributed to a variety of projects in my work experience. Always looking for new and creative ways to apply my knowledge and abilities, I am eager to keep learning and growing.
@@ -181,5 +179,6 @@ Here are my key competencies and skills:
 Let's dive into the exciting world of AI together!
 
 Stay curious and keep coding! 😄
-
+<!--
 <img src="https://github-profile-trophy.vercel.app/?username=vasuvekariya">
+-->
