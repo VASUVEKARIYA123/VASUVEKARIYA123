@@ -51,8 +51,8 @@ I am an enthusiastic problem-solver who studies computer engineering at Ddu. I a
 
 I have a passion for competitive programming in various coding platforms:
 
-- Codechef: 2-star coder (1457 max rating)
-- Leetcode: 200+ problems solved
+- Codechef: 2-star coder (1470 max rating)
+- Leetcode: 250+ problems solved
 - geeksforgeeks: 100+ problems solved
 
 ## Education
